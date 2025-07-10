@@ -27,7 +27,7 @@ This project analyzes 15,000+ job listings in the AI and Data Science sector to 
 - Python (Pandas, Matplotlib, Seaborn, Scikit-learn, adjustText)  
 - Jupyter Notebook
 
-## ▶How to Run
+## How to Run
 
 1. Download the dataset from Kaggle and place it in a folder named `data/`  
 2. Open the notebook `ai_salary_eda.ipynb` inside the `notebook/` folder  
